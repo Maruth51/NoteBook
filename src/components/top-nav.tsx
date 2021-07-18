@@ -15,7 +15,6 @@ import {
   Button,
   useDisclosure
 } from "@chakra-ui/react";
-import { Link } from "react-router-dom";
 import { AddIcon, HamburgerIcon, ArrowRightIcon } from "@chakra-ui/icons";
 import { ColorModeSwitcher } from "ColorModeSwitcher";
 import NoteForm from "./note-form";
@@ -31,7 +30,7 @@ export const TopNav: React.SFC<TopNavProps> = ({ handleNoteCreate }) => {
   return (
     <>
       <Flex mb={"30px"} align="center">
-        <Box p="2" as={Link} to="/">
+        <Box p="2" to="/">
           <motion.div whileHover={{ scale: 1.1 }}>
             <Heading
               as="h1"
