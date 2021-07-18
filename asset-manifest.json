@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/notebook/static/js/main.ebce8e80.chunk.js",
-    "main.js.map": "/notebook/static/js/main.ebce8e80.chunk.js.map",
-    "runtime-main.js": "/notebook/static/js/runtime-main.b30ada1c.js",
-    "runtime-main.js.map": "/notebook/static/js/runtime-main.b30ada1c.js.map",
-    "static/js/2.664e8377.chunk.js": "/notebook/static/js/2.664e8377.chunk.js",
-    "static/js/2.664e8377.chunk.js.map": "/notebook/static/js/2.664e8377.chunk.js.map",
-    "index.html": "/notebook/index.html",
-    "static/js/2.664e8377.chunk.js.LICENSE.txt": "/notebook/static/js/2.664e8377.chunk.js.LICENSE.txt"
+    "main.js": "/NoteBook/static/js/main.ebce8e80.chunk.js",
+    "main.js.map": "/NoteBook/static/js/main.ebce8e80.chunk.js.map",
+    "runtime-main.js": "/NoteBook/static/js/runtime-main.6aa56862.js",
+    "runtime-main.js.map": "/NoteBook/static/js/runtime-main.6aa56862.js.map",
+    "static/js/2.664e8377.chunk.js": "/NoteBook/static/js/2.664e8377.chunk.js",
+    "static/js/2.664e8377.chunk.js.map": "/NoteBook/static/js/2.664e8377.chunk.js.map",
+    "index.html": "/NoteBook/index.html",
+    "static/js/2.664e8377.chunk.js.LICENSE.txt": "/NoteBook/static/js/2.664e8377.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b30ada1c.js",
+    "static/js/runtime-main.6aa56862.js",
     "static/js/2.664e8377.chunk.js",
     "static/js/main.ebce8e80.chunk.js"
   ]
